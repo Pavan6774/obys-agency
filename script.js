@@ -21,7 +21,7 @@ tl.from("#line1-part1 ",{
             }
         },33)
 
-
+         
     }
 })
 tl.to(".line h2",{
